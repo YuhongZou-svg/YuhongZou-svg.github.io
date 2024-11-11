@@ -12,9 +12,3 @@ I'm a first-year doctoral candidate from [College of Engineering and Applied Sci
 You can find my CV here: [Yuhong Zou's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](yuhong.zou@smail.pku.edu.cn) / [Github](https://github.com/YuhongZou-svg) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/fendoudecheng?spm=1000.2115.3001.5343)
-
-
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
